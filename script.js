@@ -15,10 +15,6 @@ window.addEventListener("keydown", function(dets){
     h3.textContent = dets.key;
 })
 
-//Hello I Am Naitik Kumar , I Am Learning Web Development From The Channel Sheryians Coding School
-
-//I Am Very Happy To Be A Part Of This Channel
-//I Want To Become A Full Stack Web Developer
 
 
 
